@@ -1,0 +1,6 @@
+C:\Vs\RoomTagAll_AddIn\bin\Debug\RoomTagAll_AddIn.dll
+C:\Vs\RoomTagAll_AddIn\bin\Debug\RoomTagAll_AddIn.pdb
+C:\Vs\RoomTagAll_AddIn\obj\Debug\RoomTagAll_AddIn.csproj.AssemblyReference.cache
+C:\Vs\RoomTagAll_AddIn\obj\Debug\RoomTagAll_AddIn.csproj.CoreCompileInputs.cache
+C:\Vs\RoomTagAll_AddIn\obj\Debug\RoomTagAll_AddIn.dll
+C:\Vs\RoomTagAll_AddIn\obj\Debug\RoomTagAll_AddIn.pdb
