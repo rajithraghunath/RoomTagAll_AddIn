@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Room Tag</Name>
+    <Assembly>C:\Vs\RoomTagAll_AddIn\bin\Debug\RoomTagAll_AddIn.dll</Assembly>
+    <AddInId>A69C6ACC-7011-438F-8820-EA0FA1F5C4C5</AddInId>
+    <FullClassName>TagAllRooms</FullClassName>
+    <Text>Room Tag AddIn</Text>
+    <VendorId>Setty</VendorId>
+    <VendorDescription>rajith.r@setty.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
